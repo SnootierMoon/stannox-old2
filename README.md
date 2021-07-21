@@ -16,3 +16,7 @@ cd stannox
 ```sh
 cargo run
 ```
+
+### Controls
+
+Minecraft movement. WASD/Space/Shift to move, mouse to look.
