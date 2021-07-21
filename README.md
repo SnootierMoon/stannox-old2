@@ -1,5 +1,7 @@
 # stannox
 
+![Epic Gamer Icon](https://github.com/SnootierMoon/stannox/workflows/build/badge.svg)
+
 Voxel renderer and editor built in Rust.
 
 ## Getting Started
